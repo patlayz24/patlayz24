@@ -1,7 +1,7 @@
 ### Hi there 👋
 # Halo semua! 
 
-Perkenalkan nama saya **Patrick Lay**.\
+Perkenalkan nama saya **Patrick Lay**.
 
 Saya seorang **Mahasiswa di Universitas Matana jurusan Teknik Informatika** di Universitas Matana
 
